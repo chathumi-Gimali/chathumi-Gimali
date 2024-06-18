@@ -1,3 +1,4 @@
+![about_me](https://github.com/chathumi-Gimali/chathumi-Gimali/assets/173164634/5dadafa5-e53b-4d87-b5d0-8b8f6870569e) 
 
 <h1 align="center">Hi 🙋‍♀️, I'm Chathumini Gimali</h1>
 
