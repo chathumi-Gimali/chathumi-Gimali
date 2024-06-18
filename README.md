@@ -19,7 +19,7 @@
 - ⚡ Fun fact **Call me as Sonju**
 
   
-<hr>
+<hr><br>
 
 
 ###
@@ -50,14 +50,13 @@
 ###
 
 <br clear="both">
-
+<br><hr>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h3>🐍 My Contributions 🐍</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-</div>        >
+</div>        
 
 ###
 
