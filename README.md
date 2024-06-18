@@ -1,8 +1,10 @@
-![about_me](https://github.com/chathumi-Gimali/chathumi-Gimali/assets/173164634/5dadafa5-e53b-4d87-b5d0-8b8f6870569e) 
+ 
+<img src="https://github.com/chathumi-Gimali/chathumi-Gimali/assets/173164634/5dadafa5-e53b-4d87-b5d0-8b8f6870569e" width="50" height="50" align="center"> 
+
 
 <h1 align="center">Hi 🙋‍♀️, I'm Chathumini Gimali</h1>
 
-<h3 align="center">A passionate IT Student| Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate IT Student| Exploring the Boundless World of Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chathumi-gimali&label=Profile%20views&color=0e75b6&style=flat" alt="chathumi-gimali" /> </p>
 
