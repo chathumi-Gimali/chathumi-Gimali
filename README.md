@@ -1,4 +1,5 @@
-
+<br>
+<br>
 <h1 align="center">Hi Developers🙋‍♀️, I'm Chathumini Gimali</h1>
 <h3 align="center">Passionate IT Student| Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chathumi-gimali&label=Profile%20views&color=0e75b6&style=flat" alt="chathumi-gimali" /> </p>
@@ -7,9 +8,6 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
-
-
-
 <br>
 
 <a target="_blank" align="center">
