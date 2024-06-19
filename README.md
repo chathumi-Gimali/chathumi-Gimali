@@ -82,8 +82,8 @@
 
 
 
-<p><img align="left" src="https://github.com/chathumi-Gimali/chathumi-Gimali/assets/173164634/c6d75bfb-fd2a-49c8-88b8-89253da2c0eb" alt="chathumi-gimali"height="400" width="400" /></p>
+<p><img align="left" src="https://github.com/chathumi-Gimali/chathumi-Gimali/assets/173164634/c6d75bfb-fd2a-49c8-88b8-89253da2c0eb" alt="chathumi-gimali"height="300" width="300" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathumi-gimali&show_icons=true&locale=en" alt="chathumi-gimali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathumi-gimali&show_icons=true&locale=en" alt="chathumi-gimali" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathumi-gimali&" alt="chathumi-gimali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathumi-gimali&" alt="chathumi-gimali" /></p><br>
