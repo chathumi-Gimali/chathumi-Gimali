@@ -1,4 +1,4 @@
- 
+
 <img src="https://github.com/chathumi-Gimali/chathumi-Gimali/assets/173164634/5dadafa5-e53b-4d87-b5d0-8b8f6870569e" width="50" height="50" align="center"> 
 
 
@@ -30,14 +30,14 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
+<br>
+<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
+
+###
+<br>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
