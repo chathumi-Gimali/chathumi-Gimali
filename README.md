@@ -82,7 +82,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathumi-gimali&show_icons=true&locale=en&layout=compact" alt="chathumi-gimali" /></p>
+<p><img align="left" src="https://github.com/chathumi-Gimali/chathumi-Gimali/assets/173164634/c6d75bfb-fd2a-49c8-88b8-89253da2c0eb" alt="chathumi-gimali"height="400" width="400" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathumi-gimali&show_icons=true&locale=en" alt="chathumi-gimali" /></p>
 
