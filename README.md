@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++;Self-taught+Front-End+Developer;Software+Engineering+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-## <picture><img src = "### :woman_technologist:" width = 50px></picture> **About Me**
+## <picture><img src = "https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width = 50px></picture> **About Me**
 <br>
 
 <a target="_blank" align="center">
