@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++;Self-taught+Front-End+Developer;Software+Engineering+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-## <picture><img src = "https://img1.pnghut.com/21/8/4/E9CVGxambF/monochrome-photography-black-small-to-medium-sized-cats-cat-like-mammal-carnivoran.jpg" width = 50px></picture> **About Me**
+## <picture><img src = ":octocat:" width = 50px></picture> **About Me**
 <br>
 
 <a target="_blank" align="center">
