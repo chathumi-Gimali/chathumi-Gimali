@@ -21,8 +21,6 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **chathuminigimali5@gmail.com**
-
 - ⚡ Fun fact **Call me as Sonju**
   
  <br>
